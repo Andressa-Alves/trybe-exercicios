@@ -1,9 +1,13 @@
 # trybe-exercicios
-<html> Fundamentos do Desenvolvimento Web white_check_mark
-Bloco 1: Introdução - Unix & Shell
+<html> <h1> Fundamentos do Desenvolvimento Web white_check_mark 
+</h1>
+<h2> <p> Bloco 1: Introdução - Unix & Shell 
+</h2>
  1-3: Unix & Shell- Part 1
  1-4: Unix & Shell- Part 2
-Bloco 2: Git & GitHub
+ </p>
+ <h2> Bloco 2: Git & GitHub
+ </h2>
  2-1: O que é e para que serve?
  2-2: Entendendo os comandos
  2-3: Internet - Entendendo como ela funciona
@@ -170,4 +174,4 @@ Bloco 36: Python
  35-3: Entrada e Saí­da de dados
  36-4: Entrada e Saí­da de dados
  35-5: Projeto - Tech news
- <html>
+ </html>
