@@ -1,5 +1,8 @@
 # trybe-exercicios
-<html> <h1> Fundamentos do Desenvolvimento Web white_check_mark 
+<html> 
+<body>
+<h1> 
+Fundamentos do Desenvolvimento Web white_check_mark 
 </h1>
 <h2> <p> Bloco 1: Introdução - Unix & Shell 
 </h2>
@@ -174,4 +177,5 @@ Bloco 36: Python
  35-3: Entrada e Saí­da de dados
  36-4: Entrada e Saí­da de dados
  35-5: Projeto - Tech news
+ </body>
  </html>
