@@ -1,0 +1,22 @@
+p, div {
+  font-family: monospace;
+  font-style: oblique;
+}
+.prim:hover {
+  background-color:brown
+}
+.sec {
+  background-color: aqua;
+  color: honeydew;
+}
+.compl {
+  background-color: blue;
+  color: azure;
+}
+.esc {
+  background-color: blueviolet;
+}
+.clara {
+  background-color: burlywood;
+  color: aqua;
+}
