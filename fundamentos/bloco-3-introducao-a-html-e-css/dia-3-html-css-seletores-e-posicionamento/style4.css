@@ -17,3 +17,6 @@ h1 {
     color: seashell;
     border: 5px solid yellow;
 }
+ol li em {
+    background-color: yellow;
+}
