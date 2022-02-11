@@ -20,3 +20,13 @@ p, div {
   background-color: burlywood;
   color: aqua;
 }
+h1 {
+  background-color: tomato;
+  color: aliceblue;
+  border: yellow;
+}
+.agrupando {
+  background-color: violet;
+  width: 1000px;
+  height: 1000px;
+}
