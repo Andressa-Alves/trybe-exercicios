@@ -1,0 +1,19 @@
+p {
+    font-family: sans-serif;
+}
+
+li {
+    font-family: serif;
+    border-top: 1px solid rgb(222,222,222);
+    border-bottom: 1px solid rgb(red, green, blue);
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+h3 {
+    background-color: salmon;
+}
+h1 {
+    background-color: red;
+    color: seashell;
+    border: 5px solid yellow;
+}
